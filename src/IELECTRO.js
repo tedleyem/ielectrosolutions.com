@@ -3,7 +3,7 @@ import AnimationRevealPage from "helpers/AnimationRevealPage.js";
 import Hero from "ie-components/hero/TwoColumnWithPrimaryBackground.js";
 import Features from "ie-components/features/ielectro-features.js";
 import MainFeature from "ie-components/features/TwoColWithButton.js";
-import FAQ from "ie-components/faqs/TwoColumnPrimaryBackground.js";
+import FAQ from "ie-components/faqs/ielectro-faqs.js";
 import Footer from "ie-components/footers/ielectro-Footer.js";
 import serverRedundancyIllustrationImageSrc from "images/server-redundancy-illustration.svg"
 import serverSecureIllustrationImageSrc from "images/server-secure-illustration.svg"
