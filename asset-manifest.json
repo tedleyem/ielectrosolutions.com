@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ielectro-react/static/css/main.def877c0.chunk.css",
-    "main.js": "/ielectro-react/static/js/main.e0b53f20.chunk.js",
-    "main.js.map": "/ielectro-react/static/js/main.e0b53f20.chunk.js.map",
+    "main.js": "/ielectro-react/static/js/main.8b8a0886.chunk.js",
+    "main.js.map": "/ielectro-react/static/js/main.8b8a0886.chunk.js.map",
     "runtime-main.js": "/ielectro-react/static/js/runtime-main.aa1f8875.js",
     "runtime-main.js.map": "/ielectro-react/static/js/runtime-main.aa1f8875.js.map",
     "static/css/2.5c4a39fb.chunk.css": "/ielectro-react/static/css/2.5c4a39fb.chunk.css",
@@ -52,6 +52,7 @@
     "static/media/github-icon.2012dbb2.svg": "/ielectro-react/static/media/github-icon.2012dbb2.svg",
     "static/media/gps-navigation-concept.914079a0.svg": "/ielectro-react/static/media/gps-navigation-concept.914079a0.svg",
     "static/media/ielogo.357f8fea.svg": "/ielectro-react/static/media/ielogo.357f8fea.svg",
+    "static/media/ielogoWHITE.cd0df6d7.svg": "/ielectro-react/static/media/ielogoWHITE.cd0df6d7.svg",
     "static/media/instagram-icon.185b47b0.svg": "/ielectro-react/static/media/instagram-icon.185b47b0.svg",
     "static/media/linkedin-icon.962df6ce.svg": "/ielectro-react/static/media/linkedin-icon.962df6ce.svg",
     "static/media/log-in.svg": "/ielectro-react/static/media/log-in.26463742.svg",
@@ -68,7 +69,6 @@
     "static/media/quotes-l.075e0fe3.svg": "/ielectro-react/static/media/quotes-l.075e0fe3.svg",
     "static/media/quotes-r.4ac4f654.svg": "/ielectro-react/static/media/quotes-r.4ac4f654.svg",
     "static/media/reliable-icon.1367510a.svg": "/ielectro-react/static/media/reliable-icon.1367510a.svg",
-    "static/media/server-illustration-2.759ff537.svg": "/ielectro-react/static/media/server-illustration-2.759ff537.svg",
     "static/media/server-redundancy-illustration-blue2.409d2f1d.svg": "/ielectro-react/static/media/server-redundancy-illustration-blue2.409d2f1d.svg",
     "static/media/server-stack.52bdc27d.svg": "/ielectro-react/static/media/server-stack.52bdc27d.svg",
     "static/media/shield-icon.daefe14b.svg": "/ielectro-react/static/media/shield-icon.daefe14b.svg",
@@ -101,6 +101,6 @@
     "static/css/2.5c4a39fb.chunk.css",
     "static/js/2.a8d29e21.chunk.js",
     "static/css/main.def877c0.chunk.css",
-    "static/js/main.e0b53f20.chunk.js"
+    "static/js/main.8b8a0886.chunk.js"
   ]
 }
