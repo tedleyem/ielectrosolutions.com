@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ielectro-react/static/css/main.def877c0.chunk.css",
-    "main.js": "/ielectro-react/static/js/main.bf520d35.chunk.js",
-    "main.js.map": "/ielectro-react/static/js/main.bf520d35.chunk.js.map",
-    "runtime-main.js": "/ielectro-react/static/js/runtime-main.349d1fb5.js",
-    "runtime-main.js.map": "/ielectro-react/static/js/runtime-main.349d1fb5.js.map",
-    "static/css/2.d7cc0015.chunk.css": "/ielectro-react/static/css/2.d7cc0015.chunk.css",
-    "static/js/2.6ffb5228.chunk.js": "/ielectro-react/static/js/2.6ffb5228.chunk.js",
-    "static/js/2.6ffb5228.chunk.js.map": "/ielectro-react/static/js/2.6ffb5228.chunk.js.map",
+    "main.js": "/ielectro-react/static/js/main.72ccc201.chunk.js",
+    "main.js.map": "/ielectro-react/static/js/main.72ccc201.chunk.js.map",
+    "runtime-main.js": "/ielectro-react/static/js/runtime-main.aa1f8875.js",
+    "runtime-main.js.map": "/ielectro-react/static/js/runtime-main.aa1f8875.js.map",
+    "static/css/2.5c4a39fb.chunk.css": "/ielectro-react/static/css/2.5c4a39fb.chunk.css",
+    "static/js/2.a8d29e21.chunk.js": "/ielectro-react/static/js/2.a8d29e21.chunk.js",
+    "static/js/2.a8d29e21.chunk.js.map": "/ielectro-react/static/js/2.a8d29e21.chunk.js.map",
     "index.html": "/ielectro-react/index.html",
-    "static/css/2.d7cc0015.chunk.css.map": "/ielectro-react/static/css/2.d7cc0015.chunk.css.map",
+    "static/css/2.5c4a39fb.chunk.css.map": "/ielectro-react/static/css/2.5c4a39fb.chunk.css.map",
     "static/css/main.def877c0.chunk.css.map": "/ielectro-react/static/css/main.def877c0.chunk.css.map",
-    "static/js/2.6ffb5228.chunk.js.LICENSE.txt": "/ielectro-react/static/js/2.6ffb5228.chunk.js.LICENSE.txt",
+    "static/js/2.a8d29e21.chunk.js.LICENSE.txt": "/ielectro-react/static/js/2.a8d29e21.chunk.js.LICENSE.txt",
     "static/media/AboutUsPage.c9232ae2.jpeg": "/ielectro-react/static/media/AboutUsPage.c9232ae2.jpeg",
     "static/media/BlogIndexPage.0f03fbdc.jpeg": "/ielectro-react/static/media/BlogIndexPage.0f03fbdc.jpeg",
     "static/media/ContactUsPage.27145629.jpeg": "/ielectro-react/static/media/ContactUsPage.27145629.jpeg",
@@ -47,7 +47,6 @@
     "static/media/facebook-icon.8f6512c4.svg": "/ielectro-react/static/media/facebook-icon.8f6512c4.svg",
     "static/media/fast-icon.dbb971a7.svg": "/ielectro-react/static/media/fast-icon.dbb971a7.svg",
     "static/media/github-icon.2012dbb2.svg": "/ielectro-react/static/media/github-icon.2012dbb2.svg",
-    "static/media/ielogo-bordered.9c5290dc.svg": "/ielectro-react/static/media/ielogo-bordered.9c5290dc.svg",
     "static/media/ielogo.357f8fea.svg": "/ielectro-react/static/media/ielogo.357f8fea.svg",
     "static/media/instagram-icon.185b47b0.svg": "/ielectro-react/static/media/instagram-icon.185b47b0.svg",
     "static/media/linkedin-icon.962df6ce.svg": "/ielectro-react/static/media/linkedin-icon.962df6ce.svg",
@@ -95,10 +94,10 @@
     "static/media/youtube-icon.10cce4d9.svg": "/ielectro-react/static/media/youtube-icon.10cce4d9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.349d1fb5.js",
-    "static/css/2.d7cc0015.chunk.css",
-    "static/js/2.6ffb5228.chunk.js",
+    "static/js/runtime-main.aa1f8875.js",
+    "static/css/2.5c4a39fb.chunk.css",
+    "static/js/2.a8d29e21.chunk.js",
     "static/css/main.def877c0.chunk.css",
-    "static/js/main.bf520d35.chunk.js"
+    "static/js/main.72ccc201.chunk.js"
   ]
 }
