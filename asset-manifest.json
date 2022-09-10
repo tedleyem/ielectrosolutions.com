@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ielectro-react/static/css/main.def877c0.chunk.css",
-    "main.js": "/ielectro-react/static/js/main.e13e0930.chunk.js",
-    "main.js.map": "/ielectro-react/static/js/main.e13e0930.chunk.js.map",
+    "main.js": "/ielectro-react/static/js/main.c0126a34.chunk.js",
+    "main.js.map": "/ielectro-react/static/js/main.c0126a34.chunk.js.map",
     "runtime-main.js": "/ielectro-react/static/js/runtime-main.aa1f8875.js",
     "runtime-main.js.map": "/ielectro-react/static/js/runtime-main.aa1f8875.js.map",
     "static/css/2.5c4a39fb.chunk.css": "/ielectro-react/static/css/2.5c4a39fb.chunk.css",
@@ -13,7 +13,6 @@
     "static/css/main.def877c0.chunk.css.map": "/ielectro-react/static/css/main.def877c0.chunk.css.map",
     "static/js/2.a8d29e21.chunk.js.LICENSE.txt": "/ielectro-react/static/js/2.a8d29e21.chunk.js.LICENSE.txt",
     "static/media/AboutUsPage.c9232ae2.jpeg": "/ielectro-react/static/media/AboutUsPage.c9232ae2.jpeg",
-    "static/media/BLK-man-engineer-working-on-computer-server-rack-switchboard.84a19120.svg": "/ielectro-react/static/media/BLK-man-engineer-working-on-computer-server-rack-switchboard.84a19120.svg",
     "static/media/BlogIndexPage.0f03fbdc.jpeg": "/ielectro-react/static/media/BlogIndexPage.0f03fbdc.jpeg",
     "static/media/Broken-Screen-Icons.ef13a00f.svg": "/ielectro-react/static/media/Broken-Screen-Icons.ef13a00f.svg",
     "static/media/ContactUsPage.27145629.jpeg": "/ielectro-react/static/media/ContactUsPage.27145629.jpeg",
@@ -40,6 +39,7 @@
     "static/media/computer-technical.ffe05c2d.svg": "/ielectro-react/static/media/computer-technical.ffe05c2d.svg",
     "static/media/customers-logo-strip.680ac7c2.png": "/ielectro-react/static/media/customers-logo-strip.680ac7c2.png",
     "static/media/customize-icon.367468c9.svg": "/ielectro-react/static/media/customize-icon.367468c9.svg",
+    "static/media/datacenter-isometric-illustration.51f99290.svg": "/ielectro-react/static/media/datacenter-isometric-illustration.51f99290.svg",
     "static/media/design-illustration-2.6da6a00b.svg": "/ielectro-react/static/media/design-illustration-2.6da6a00b.svg",
     "static/media/design-illustration.415c277c.svg": "/ielectro-react/static/media/design-illustration.415c277c.svg",
     "static/media/dollar-sign.svg": "/ielectro-react/static/media/dollar-sign.8d9a6f93.svg",
@@ -102,6 +102,6 @@
     "static/css/2.5c4a39fb.chunk.css",
     "static/js/2.a8d29e21.chunk.js",
     "static/css/main.def877c0.chunk.css",
-    "static/js/main.e13e0930.chunk.js"
+    "static/js/main.c0126a34.chunk.js"
   ]
 }
