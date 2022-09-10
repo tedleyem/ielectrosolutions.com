@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ielectro-react/static/css/main.def877c0.chunk.css",
-    "main.js": "/ielectro-react/static/js/main.aecdd4a3.chunk.js",
-    "main.js.map": "/ielectro-react/static/js/main.aecdd4a3.chunk.js.map",
+    "main.js": "/ielectro-react/static/js/main.e13e0930.chunk.js",
+    "main.js.map": "/ielectro-react/static/js/main.e13e0930.chunk.js.map",
     "runtime-main.js": "/ielectro-react/static/js/runtime-main.aa1f8875.js",
     "runtime-main.js.map": "/ielectro-react/static/js/runtime-main.aa1f8875.js.map",
     "static/css/2.5c4a39fb.chunk.css": "/ielectro-react/static/css/2.5c4a39fb.chunk.css",
@@ -17,6 +17,7 @@
     "static/media/BlogIndexPage.0f03fbdc.jpeg": "/ielectro-react/static/media/BlogIndexPage.0f03fbdc.jpeg",
     "static/media/Broken-Screen-Icons.ef13a00f.svg": "/ielectro-react/static/media/Broken-Screen-Icons.ef13a00f.svg",
     "static/media/ContactUsPage.27145629.jpeg": "/ielectro-react/static/media/ContactUsPage.27145629.jpeg",
+    "static/media/Group-of-Black-Men-and-Women-in-Office-Setting-B.142c2c33.svg": "/ielectro-react/static/media/Group-of-Black-Men-and-Women-in-Office-Setting-B.142c2c33.svg",
     "static/media/LoginPage.833169df.jpeg": "/ielectro-react/static/media/LoginPage.833169df.jpeg",
     "static/media/PricingPage.c6e93374.jpeg": "/ielectro-react/static/media/PricingPage.c6e93374.jpeg",
     "static/media/PrivacyPolicyPage.87eaa1f8.jpeg": "/ielectro-react/static/media/PrivacyPolicyPage.87eaa1f8.jpeg",
@@ -59,7 +60,6 @@
     "static/media/logo.e626db01.svg": "/ielectro-react/static/media/logo.e626db01.svg",
     "static/media/love-illustration.c759090f.svg": "/ielectro-react/static/media/love-illustration.c759090f.svg",
     "static/media/map-pin.svg": "/ielectro-react/static/media/map-pin.8c41fcd3.svg",
-    "static/media/media-planning-abstract-concept-illustration_335657-4904.18b54b66.svg": "/ielectro-react/static/media/media-planning-abstract-concept-illustration_335657-4904.18b54b66.svg",
     "static/media/menu.svg": "/ielectro-react/static/media/menu.644fa295.svg",
     "static/media/minus.svg": "/ielectro-react/static/media/minus.595a628f.svg",
     "static/media/phone-repair-symbol-svgrepo-com.29a502a3.svg": "/ielectro-react/static/media/phone-repair-symbol-svgrepo-com.29a502a3.svg",
@@ -102,6 +102,6 @@
     "static/css/2.5c4a39fb.chunk.css",
     "static/js/2.a8d29e21.chunk.js",
     "static/css/main.def877c0.chunk.css",
-    "static/js/main.aecdd4a3.chunk.js"
+    "static/js/main.e13e0930.chunk.js"
   ]
 }
