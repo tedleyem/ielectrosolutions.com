@@ -19,15 +19,19 @@ export default () => {
         heading="IPhone and Android Repairs in store"
         description = "Fast and reliable service, water damage, speaker failure, lcd replacement, and more. Call us to hear about all of our services. "
         imageSrc={serverSecureIllustrationImageSrc} 
+        primaryButtonText = "Call us 561-420-6471"
         buttonRounded={false}
         textOnLeft={false}
       /> 
       <MainFeature 
-        subheading="Networking"
+        subheading="Networking and Repairs"
         heading="Hardware repair, sever mangement and backup, computer security and more"
-        description = "Lorem "
+        description = "We can help you with PC tune ups, data transfers, virus removal, and more. 
+        We are your go to shop for your computer repair needs!
+        "
         imageSrc={serverRedundancyIllustrationImageSrc}
-        buttonRounded={false}
+      // primaryButtonText = "Learn More",
+      //  buttonRounded={false} 
       />
       <MainFeature 
         subheading="Areas we service"
@@ -38,18 +42,18 @@ export default () => {
         North Palm Beach | Palm Beach Gardens | Palm Beach | Palm Springs |
         Royal Palm Beach | Wellington | West Palm Beach |
     "
-        imageSrc={serverSecureIllustrationImageSrc}
-        buttonRounded={false}
-        textOnLeft={false}
+        imageSrc={serverSecureIllustrationImageSrc} 
+        // primaryButtonText = "Learn More",
+        //  buttonRounded={false} 
       /> 
       <MainFeature 
         subheading="Event Planning"
         heading="Need a space for your event?"
         description = "Use our shop, conveniently located near Palm Beach State college and other popular amenities to host a small event.
         Host a business function, yoga class, or more. Contact us for details"
-        imageSrc={prototypeIllustrationImageSrc}
-        buttonRounded={false}
-        textOnLeft={false}
+        imageSrc={prototypeIllustrationImageSrc} 
+        // primaryButtonText = "Learn More",
+        //  buttonRounded={false} 
       /> 
       <FAQ />
       <Footer />
