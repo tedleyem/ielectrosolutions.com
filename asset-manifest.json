@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ielectro-react/static/css/main.def877c0.chunk.css",
-    "main.js": "/ielectro-react/static/js/main.72ccc201.chunk.js",
-    "main.js.map": "/ielectro-react/static/js/main.72ccc201.chunk.js.map",
+    "main.js": "/ielectro-react/static/js/main.9329ddab.chunk.js",
+    "main.js.map": "/ielectro-react/static/js/main.9329ddab.chunk.js.map",
     "runtime-main.js": "/ielectro-react/static/js/runtime-main.aa1f8875.js",
     "runtime-main.js.map": "/ielectro-react/static/js/runtime-main.aa1f8875.js.map",
     "static/css/2.5c4a39fb.chunk.css": "/ielectro-react/static/css/2.5c4a39fb.chunk.css",
@@ -61,6 +61,7 @@
     "static/media/phone-repair-symbol-svgrepo-com.29a502a3.svg": "/ielectro-react/static/media/phone-repair-symbol-svgrepo-com.29a502a3.svg",
     "static/media/play-circle.svg": "/ielectro-react/static/media/play-circle.dcf880c0.svg",
     "static/media/plus.svg": "/ielectro-react/static/media/plus.887d2aad.svg",
+    "static/media/prototype-illustration.21bc4b3f.svg": "/ielectro-react/static/media/prototype-illustration.21bc4b3f.svg",
     "static/media/quotes-l.075e0fe3.svg": "/ielectro-react/static/media/quotes-l.075e0fe3.svg",
     "static/media/quotes-r.4ac4f654.svg": "/ielectro-react/static/media/quotes-r.4ac4f654.svg",
     "static/media/reliable-icon.1367510a.svg": "/ielectro-react/static/media/reliable-icon.1367510a.svg",
@@ -98,6 +99,6 @@
     "static/css/2.5c4a39fb.chunk.css",
     "static/js/2.a8d29e21.chunk.js",
     "static/css/main.def877c0.chunk.css",
-    "static/js/main.72ccc201.chunk.js"
+    "static/js/main.9329ddab.chunk.js"
   ]
 }
