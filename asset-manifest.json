@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ielectro-react/static/css/main.def877c0.chunk.css",
-    "main.js": "/ielectro-react/static/js/main.9329ddab.chunk.js",
-    "main.js.map": "/ielectro-react/static/js/main.9329ddab.chunk.js.map",
+    "main.js": "/ielectro-react/static/js/main.a46ca148.chunk.js",
+    "main.js.map": "/ielectro-react/static/js/main.a46ca148.chunk.js.map",
     "runtime-main.js": "/ielectro-react/static/js/runtime-main.aa1f8875.js",
     "runtime-main.js.map": "/ielectro-react/static/js/runtime-main.aa1f8875.js.map",
     "static/css/2.5c4a39fb.chunk.css": "/ielectro-react/static/css/2.5c4a39fb.chunk.css",
@@ -99,6 +99,6 @@
     "static/css/2.5c4a39fb.chunk.css",
     "static/js/2.a8d29e21.chunk.js",
     "static/css/main.def877c0.chunk.css",
-    "static/js/main.9329ddab.chunk.js"
+    "static/js/main.a46ca148.chunk.js"
   ]
 }
