@@ -3,7 +3,8 @@ import tw from "twin.macro";
 import styled from "styled-components";
 import { css } from "styled-components/macro"; //eslint-disable-line
 
-import LogoImage from "images/ielogo-bordered.svg";
+// import LogoImage from "images/ielogo-bordered.svg"; 
+import LogoImage from "images/iefix-foot-image.png"; 
 import { ReactComponent as FacebookIcon } from "images/facebook-icon.svg";
 import { ReactComponent as YoutubeIcon } from "images/youtube-icon.svg";
 import { ReactComponent as InstagramIcon } from "images/instagram-icon.svg";
