@@ -62,40 +62,5 @@ export default () => {
     </AnimationRevealPage>
     
   );
-
-
-  export default function App() {
-    // If you want to disable the animation just use the disabled `prop` like below on your page's component
-    // return <AnimationRevealPage disabled>xxxxxxxxxx</AnimationRevealPage>;
-  
-  
-  return (
-    <Router>
-      <Switch>
-        <Route path="/ie-components/:type/:subtype/:name">
-          <IEComponentRenderer />
-        </Route>
-        <Route path="/ie-components/:type/:name">
-          <IEComponentRenderer />
-        </Route>
-        <Route path="/">
-          <IelectrofixLandingPage />
-        </Route> 
-        <Route path="/about">
-          <AboutUs />
-        </Route>
-        <Route path="/contact">
-          <ContactUs />
-        </Route>
-        <Route path="/terms-of-service">
-          <TermsOfService />
-        </Route>
-        <Route path="/privacypolicy">
-          <PrivacyPolicy />
-        </Route>
-      </Switch>
-    </Router>
-  );
-}
-
+ 
 }
