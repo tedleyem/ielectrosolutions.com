@@ -7,7 +7,10 @@ import FAQ from "ie-components/faqs/ielectro-faqs.js";
 import Footer from "ie-components/footers/ielectro-Footer.js";
 import serverRedundancyIllustrationImageSrc from "images/server-redundancy-illustration.svg"
 import serverSecureIllustrationImageSrc from "images/server-secure-illustration.svg"
-import prototypeIllustrationImageSrc from "images/prototype-illustration.svg"
+import phonerepairIllustrationImageSrc from "images/repair_phone2.svg"
+import networkingIllustrationImageSrc from "images/BLK-man-engineer-working-on-computer-server-rack-switchboard.svg"
+import serviceareaIllustrationImageSrc from "images/gps-navigation-concept.svg"
+import evenplanningIllustrationImageSrc from "images/media-planning-abstract-concept-illustration_335657-4904.svg"
 
 export default () => {
   return (
@@ -18,7 +21,7 @@ export default () => {
         subheading="Cell Phone Repair"
         heading="IPhone and Android Repairs in store"
         description = "Fast and reliable service, water damage, speaker failure, lcd replacement, and more. Call us to hear about all of our services. "
-        imageSrc={serverSecureIllustrationImageSrc} 
+        imageSrc={phonerepairIllustrationImageSrc} 
         primaryButtonText = "Call us 561-420-6471"
         buttonRounded={false}
         textOnLeft={false}
@@ -27,9 +30,9 @@ export default () => {
         subheading="Networking and Repairs"
         heading="Hardware repair, sever mangement and backup, computer security and more"
         description = "We can help you with PC tune ups, data transfers, virus removal, and more. 
-        We are your go to shop for your computer repair needs!
+        We also provide repair services for your Apple devices including iPhones, iPads, iPods, iMacs, and Macbooks.
         "
-        imageSrc={serverRedundancyIllustrationImageSrc}
+        imageSrc={networkingIllustrationImageSrc}
       // primaryButtonText = "Learn More",
       //  buttonRounded={false} 
       />
@@ -42,7 +45,7 @@ export default () => {
         North Palm Beach | Palm Beach Gardens | Palm Beach | Palm Springs |
         Royal Palm Beach | Wellington | West Palm Beach |
     "
-        imageSrc={serverSecureIllustrationImageSrc} 
+        imageSrc={serviceareaIllustrationImageSrc} 
         textOnLeft={false}
         // primaryButtonText = "Learn More",
         //  buttonRounded={false} 
@@ -52,7 +55,7 @@ export default () => {
         heading="Need a space for your event?"
         description = "Use our shop, conveniently located near Palm Beach State college and other popular amenities to host a small event.
         Host a business function, yoga class, or more. Contact us for details"
-        imageSrc={prototypeIllustrationImageSrc} 
+        imageSrc={evenplanningIllustrationImageSrc} 
         // primaryButtonText = "Learn More",
         //  buttonRounded={false} 
       /> 
