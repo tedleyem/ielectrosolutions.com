@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ielectro-react/static/css/main.def877c0.chunk.css",
-    "main.js": "/ielectro-react/static/js/main.18b9d424.chunk.js",
-    "main.js.map": "/ielectro-react/static/js/main.18b9d424.chunk.js.map",
+    "main.js": "/ielectro-react/static/js/main.c2ba2cd5.chunk.js",
+    "main.js.map": "/ielectro-react/static/js/main.c2ba2cd5.chunk.js.map",
     "runtime-main.js": "/ielectro-react/static/js/runtime-main.aa1f8875.js",
     "runtime-main.js.map": "/ielectro-react/static/js/runtime-main.aa1f8875.js.map",
     "static/css/2.5c4a39fb.chunk.css": "/ielectro-react/static/css/2.5c4a39fb.chunk.css",
@@ -13,6 +13,7 @@
     "static/css/main.def877c0.chunk.css.map": "/ielectro-react/static/css/main.def877c0.chunk.css.map",
     "static/js/2.a8d29e21.chunk.js.LICENSE.txt": "/ielectro-react/static/js/2.a8d29e21.chunk.js.LICENSE.txt",
     "static/media/AboutUsPage.c9232ae2.jpeg": "/ielectro-react/static/media/AboutUsPage.c9232ae2.jpeg",
+    "static/media/BLK-man-engineer-working-on-computer-server-rack-switchboard.84a19120.svg": "/ielectro-react/static/media/BLK-man-engineer-working-on-computer-server-rack-switchboard.84a19120.svg",
     "static/media/BlogIndexPage.0f03fbdc.jpeg": "/ielectro-react/static/media/BlogIndexPage.0f03fbdc.jpeg",
     "static/media/ContactUsPage.27145629.jpeg": "/ielectro-react/static/media/ContactUsPage.27145629.jpeg",
     "static/media/LoginPage.833169df.jpeg": "/ielectro-react/static/media/LoginPage.833169df.jpeg",
@@ -47,6 +48,7 @@
     "static/media/facebook-icon.8f6512c4.svg": "/ielectro-react/static/media/facebook-icon.8f6512c4.svg",
     "static/media/fast-icon.dbb971a7.svg": "/ielectro-react/static/media/fast-icon.dbb971a7.svg",
     "static/media/github-icon.2012dbb2.svg": "/ielectro-react/static/media/github-icon.2012dbb2.svg",
+    "static/media/gps-navigation-concept.1e6c2701.svg": "/ielectro-react/static/media/gps-navigation-concept.1e6c2701.svg",
     "static/media/ielogo.357f8fea.svg": "/ielectro-react/static/media/ielogo.357f8fea.svg",
     "static/media/instagram-icon.185b47b0.svg": "/ielectro-react/static/media/instagram-icon.185b47b0.svg",
     "static/media/linkedin-icon.962df6ce.svg": "/ielectro-react/static/media/linkedin-icon.962df6ce.svg",
@@ -56,15 +58,16 @@
     "static/media/logo.e626db01.svg": "/ielectro-react/static/media/logo.e626db01.svg",
     "static/media/love-illustration.c759090f.svg": "/ielectro-react/static/media/love-illustration.c759090f.svg",
     "static/media/map-pin.svg": "/ielectro-react/static/media/map-pin.8c41fcd3.svg",
+    "static/media/media-planning-abstract-concept-illustration_335657-4904.18b54b66.svg": "/ielectro-react/static/media/media-planning-abstract-concept-illustration_335657-4904.18b54b66.svg",
     "static/media/menu.svg": "/ielectro-react/static/media/menu.644fa295.svg",
     "static/media/minus.svg": "/ielectro-react/static/media/minus.595a628f.svg",
     "static/media/phone-repair-symbol-svgrepo-com.29a502a3.svg": "/ielectro-react/static/media/phone-repair-symbol-svgrepo-com.29a502a3.svg",
     "static/media/play-circle.svg": "/ielectro-react/static/media/play-circle.dcf880c0.svg",
     "static/media/plus.svg": "/ielectro-react/static/media/plus.887d2aad.svg",
-    "static/media/prototype-illustration.21bc4b3f.svg": "/ielectro-react/static/media/prototype-illustration.21bc4b3f.svg",
     "static/media/quotes-l.075e0fe3.svg": "/ielectro-react/static/media/quotes-l.075e0fe3.svg",
     "static/media/quotes-r.4ac4f654.svg": "/ielectro-react/static/media/quotes-r.4ac4f654.svg",
     "static/media/reliable-icon.1367510a.svg": "/ielectro-react/static/media/reliable-icon.1367510a.svg",
+    "static/media/repair_phone2.12b3b6ce.svg": "/ielectro-react/static/media/repair_phone2.12b3b6ce.svg",
     "static/media/server-illustration-2.759ff537.svg": "/ielectro-react/static/media/server-illustration-2.759ff537.svg",
     "static/media/server-redundancy-illustration.c60061a0.svg": "/ielectro-react/static/media/server-redundancy-illustration.c60061a0.svg",
     "static/media/server-secure-illustration.7c9a441e.svg": "/ielectro-react/static/media/server-secure-illustration.7c9a441e.svg",
@@ -99,6 +102,6 @@
     "static/css/2.5c4a39fb.chunk.css",
     "static/js/2.a8d29e21.chunk.js",
     "static/css/main.def877c0.chunk.css",
-    "static/js/main.18b9d424.chunk.js"
+    "static/js/main.c2ba2cd5.chunk.js"
   ]
 }
