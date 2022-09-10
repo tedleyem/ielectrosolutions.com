@@ -1,7 +1,24 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# IelectroFix Solutions Website 
+![](public/ielectro-favicon-package/apple-touch-icon.png)
 
+ This repo is for the design of the IelectroFix Solutions website. 
+ 
+ Repo Link: https://1019-studios.github.io/ielectro-react
 
-## Changing Colors 
+URL Link: http://ielectrosolutions.com
+
+Site Developed with the [Treact Landing Page Theme](https://treact.owaiskhan.me/) 
+
+## NODE and NPM VERSIONS 
+```
+$ node --version
+v16.13.2
+
+$ npm --version
+8.1.2
+```
+
+### Changing Colors 
 Changing primary colors can be done by changing the primary block in the tailwind.config.js file 
 
 ```
@@ -18,6 +35,15 @@ Changing primary colors can be done by changing the primary block in the tailwin
       },
 ```
 
+### Deploy to GH-Pages 
+This command will deploy to the gh-pages branch and create the static pages needed.
+
+$ npm run deploy 
+
+#### Setting up React App with Github Pages 
+[Read this link](https://github.com/tmeralus/react-gh-pages) to learn more about setting up a react
+app to work with github pages. 
+
 ## Available Script
 
 In the project directory, you can run:
@@ -30,34 +56,35 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
  
+---
 
+#### Theme Information 
+* [Treact Themes](https://treact.owaiskhan.me/)
+* [Landing Page](https://treact.owaiskhan.me/components/landingPages/HostingCloudLandingPage)
+
+### Helpful Resources 
+[DEPLOY GH-PAGES REACT APP](https://github.com/gitname/react-gh-pages)
+[Convert SVG FILES](https://svgcreator.com/download/)
+[FREE SVG ICONS](https://www.svgrepo.com/vectors/instagram/)
+[Treact Theme DOCS](https://owaiskhan.me/post/free-tailwindcss-react-ui-kit)
+[Treact Theme](https://treact.owaiskhan.me/)
+[Tailwind Color Blocks](https://tailwindcolor.com/)
+
+---
 ## Learn More
-```
+
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### [Code Splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+### [Analyzing the Bundle Size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Analyzing the Bundle Size
+### [Making a Progressive Web App](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm runbuild` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-```
+### [Advanced Configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+ 
+### [Deployment](https://facebook.github.io/create-react-app/docs/deployment)
+ 
+### [npm runbuild fails to minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
