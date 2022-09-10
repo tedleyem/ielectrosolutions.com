@@ -43,6 +43,7 @@ export default () => {
         Royal Palm Beach | Wellington | West Palm Beach |
     "
         imageSrc={serverSecureIllustrationImageSrc} 
+        textOnLeft={false}
         // primaryButtonText = "Learn More",
         //  buttonRounded={false} 
       /> 
