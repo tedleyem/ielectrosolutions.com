@@ -7,6 +7,19 @@
 
 URL Link: http://ielectrosolutions.com
 
+ 
+Index: IELECTRO.js 
+Hero: "ie-components/hero/TwoColumnWithPrimaryBackground.js";
+Features: "ie-components/features/ielectro-features.js";
+MainFeature: "ie-components/features/TwoColWithButton.js";
+Footer: "ie-components/footers/ielectro-Footer.js";
+
+
+AboutUs: "AboutUs.js";
+Pricing: "Pricing.js";
+PrivacyPolicy: "PrivacyPolicy.js";
+TermsOfService: "TermsOfService.js"
+
 Site Developed with the [Treact Landing Page Theme](https://treact.owaiskhan.me/) 
 
 ## NODE and NPM VERSIONS 
@@ -69,6 +82,11 @@ You will also see any lint errors in the console.
 [Treact Theme DOCS](https://owaiskhan.me/post/free-tailwindcss-react-ui-kit)
 [Treact Theme](https://treact.owaiskhan.me/)
 [Tailwind Color Blocks](https://tailwindcolor.com/)
+[Logos at your fingertips](https://www.flaticon.com/logos)
+[Technical Slides](https://slidesgo.com/theme/technology-consulting#search-Business&position-7&results-2389)
+[Free Flat Photos](https://www.vecteezy.com/)
+[Freepik](https://www.freepik.com)
+[Change SVG Colors](https://iconscout.com/color-editor)
 
 ---
 ## Learn More

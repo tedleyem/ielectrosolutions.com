@@ -5,12 +5,10 @@ import Features from "ie-components/features/ielectro-features.js";
 import MainFeature from "ie-components/features/TwoColWithButton.js";
 import FAQ from "ie-components/faqs/ielectro-faqs.js";
 import Footer from "ie-components/footers/ielectro-Footer.js";
-import serverRedundancyIllustrationImageSrc from "images/server-redundancy-illustration.svg"
-import serverSecureIllustrationImageSrc from "images/server-secure-illustration.svg"
-import phonerepairIllustrationImageSrc from "images/repair_phone2.svg"
-import networkingIllustrationImageSrc from "images/BLK-man-engineer-working-on-computer-server-rack-switchboard.svg"
+import phonerepairIllustrationImageSrc from "images/Broken-Screen-Icons.svg"
+import networkingIllustrationImageSrc from "images/datacenter-isometric-illustration.svg"
 import serviceareaIllustrationImageSrc from "images/gps-navigation-concept.svg"
-import evenplanningIllustrationImageSrc from "images/media-planning-abstract-concept-illustration_335657-4904.svg"
+import evenplanningIllustrationImageSrc from "images/Group-of-Black-Men-and-Women-in-Office-Setting-B.svg"
 
 export default () => {
   return (
@@ -62,5 +60,42 @@ export default () => {
       <FAQ />
       <Footer />
     </AnimationRevealPage>
+    
   );
+
+
+  export default function App() {
+    // If you want to disable the animation just use the disabled `prop` like below on your page's component
+    // return <AnimationRevealPage disabled>xxxxxxxxxx</AnimationRevealPage>;
+  
+  
+  return (
+    <Router>
+      <Switch>
+        <Route path="/ie-components/:type/:subtype/:name">
+          <IEComponentRenderer />
+        </Route>
+        <Route path="/ie-components/:type/:name">
+          <IEComponentRenderer />
+        </Route>
+        <Route path="/">
+          <IelectrofixLandingPage />
+        </Route> 
+        <Route path="/about">
+          <AboutUs />
+        </Route>
+        <Route path="/contact">
+          <ContactUs />
+        </Route>
+        <Route path="/terms-of-service">
+          <TermsOfService />
+        </Route>
+        <Route path="/privacypolicy">
+          <PrivacyPolicy />
+        </Route>
+      </Switch>
+    </Router>
+  );
+}
+
 }

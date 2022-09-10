@@ -73,7 +73,7 @@ export default ({ roundedHeaderButton = false, logoLink, links, className, colla
   const defaultLinks = [
     <NavLinks key={1}>
       <NavLink href="/about">About</NavLink>
-      <NavLink href="/#">Services</NavLink>
+      <NavLink href="https://www.instagram.com/ielectrofix/"></NavLink>
       <NavLink href="/#">FAQ's</NavLink>
       <NavLink href="/contact">Contact Us</NavLink> 
     </NavLinks>

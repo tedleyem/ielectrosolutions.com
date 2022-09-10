@@ -57,13 +57,13 @@ export default () => {
               FL 33461
             </CompanyAddress>
             <SocialLinksContainer>
-              <SocialLink href="https://facebook.com">
+              <SocialLink href="https://instagram.com/ielectrofix">
                 <FacebookIcon />
               </SocialLink>   
-              <SocialLink href="https://instagram.com">
+              <SocialLink href="https://instagram.com/ielectrofix">
                 <InstagramIcon />
               </SocialLink>   
-              <SocialLink href="https://facebook.com">
+              <SocialLink href="https://instagram.com/ielectrofix">
                 <YoutubeIcon />
               </SocialLink>   
             </SocialLinksContainer>
@@ -106,10 +106,10 @@ export default () => {
                 <Link href="#">GDPR</Link>
               </LinkListItem>
               <LinkListItem>
-                <Link href="#">Privacy Policy</Link>
+                <Link href="/privacypolicy">Privacy Policy</Link>
               </LinkListItem>
               <LinkListItem>
-                <Link href="#">Terms of Service</Link>
+                <Link href="terms-of-service">Terms of Service</Link>
               </LinkListItem>  
               <LinkListItem>
               <Link href="#">iPhone, iPod, iPad and Mac are registered trademarks of Apple, Inc. 

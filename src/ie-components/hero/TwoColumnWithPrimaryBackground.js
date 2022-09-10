@@ -11,8 +11,8 @@ import { Container as ContainerBase, ContentWithVerticalPadding, Content2Xl } fr
 import { SectionHeading } from "ie-components/misc/Headings.js";
 import { SectionDescription } from "ie-components/misc/Typography.js";
 import { PrimaryButton as PrimaryButtonBase } from "ie-components/misc/Buttons.js";
-import logoImageSrc from "images/logo-light.svg";
-import serverIllustrationImageSrc from "images/server-illustration-2.svg";
+import logoImageSrc from "images/ielogowhite.svg"; 
+import serverSecureIllustrationImageSrc from "images/server-redundancy-illustration-blue2.svg"
 
 const PrimaryBackgroundContainer = tw.div`-mx-8 px-8 bg-primary-900 text-gray-100`;
 const Header = tw(HeaderBase)`max-w-none -mt-8 py-8 -mx-8 px-8`;
@@ -35,7 +35,7 @@ export default ({
   description = "Come into the store to learn more about event hosting, repairs for Iphones, tablets, android devices, web development, and IT consulting",
   primaryButtonText = "3920 S Congress Ave, Lake Worth, FL 33461",
   primaryButtonUrl = "#",
-  imageSrc = serverIllustrationImageSrc,
+  imageSrc = serverSecureIllustrationImageSrc,
 }) => {
   const logoLink = (
     <LogoLink href="/">
@@ -44,11 +44,8 @@ export default ({
     </LogoLink>
   );
   const navLinks = [
-    <NavLinks key={1}>
-    <NavLink href="#">Services</NavLink>
-      <NavLink href="#">About</NavLink> 
-      <NavLink href="#">FAQ's</NavLink>
-      <PrimaryLink href="#">Schedule a Service</PrimaryLink>
+    <NavLinks key={1}> 
+      <PrimaryLink href="https://www.instagram.com/ielectrofix/">Find us on Instagram</PrimaryLink>
     </NavLinks>
   ];
   return (
