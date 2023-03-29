@@ -2,6 +2,7 @@ import React from "react";
 import tw from "twin.macro";
 import styled from "styled-components";
 import { css } from "styled-components/macro"; //eslint-disable-line
+import logoIcon from "images/icons8-m-key-32-blk-white.png";
 
 // import LogoImage from "images/ielogo-bordered.svg"; 
 import LogoImage from "images/iefix-foot-image.png"; 
@@ -135,7 +136,7 @@ export default () => {
         <Divider/>
         <CopyrightAndCompanyInfoRow>
           <CopyrightNotice>&copy; IElectroFix Solutions LLC.</CopyrightNotice>
-          <CompanyInfo>Designed by <Link href="https://www.meralus.com">Tedley Meralus</Link> </CompanyInfo>
+          <CompanyInfo>Designed by <Link href="https://www.meralus.com"> src={logoIcon} </Link> </CompanyInfo>
         </CopyrightAndCompanyInfoRow>
       </Content>
     </Container>
