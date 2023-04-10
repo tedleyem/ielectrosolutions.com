@@ -4,7 +4,6 @@ import { css } from "styled-components/macro"; //eslint-disable-line
 import HeaderBase, {
   LogoLink as LogoLinkBase,
   NavLinks,
-  NavLink as NavLinkBase,
   PrimaryLink as PrimaryLinkBase
 } from "../headers/light.js";
 import { Container as ContainerBase, ContentWithVerticalPadding, Content2Xl } from "ie-components/misc/Layouts.js";
