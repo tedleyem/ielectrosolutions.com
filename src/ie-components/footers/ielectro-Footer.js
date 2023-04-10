@@ -2,7 +2,7 @@ import React from "react";
 import tw from "twin.macro";
 import styled from "styled-components";
 import { css } from "styled-components/macro"; //eslint-disable-line
-import logoIcon from "images/icons8-m-key-32-blk-white.png";
+import logoME from "images/icon-m-32.png"; 
 
 // import LogoImage from "images/ielogo-bordered.svg"; 
 import LogoImage from "images/iefix-foot-image.png"; 
@@ -39,7 +39,7 @@ const SocialLink = styled.a`
 
 const CopyrightAndCompanyInfoRow = tw.div`pb-0 text-sm font-normal flex flex-col sm:flex-row justify-between items-center`
 const CopyrightNotice = tw.div``
-const CompanyInfo = tw.div``
+const CompanyInfo = tw.div`inline-flex`
 
 const Divider = tw.div`my-8 border-b-2 border-gray-800`
 export default () => {
@@ -136,7 +136,9 @@ export default () => {
         <Divider/>
         <CopyrightAndCompanyInfoRow>
           <CopyrightNotice>&copy; IElectroFix Solutions LLC.</CopyrightNotice>
-          <CompanyInfo>Designed by <Link href="https://www.meralus.com"> <img src={logoIcon} /> </Link> </CompanyInfo>
+          <CompanyInfo>Designed by <Link href="https://www.meralus.com">  
+          <img src={logoME} /> 
+           </Link> </CompanyInfo>
         </CopyrightAndCompanyInfoRow>
       </Content>
     </Container>
