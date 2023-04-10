@@ -136,7 +136,7 @@ export default () => {
         <Divider/>
         <CopyrightAndCompanyInfoRow>
           <CopyrightNotice>&copy; IElectroFix Solutions LLC.</CopyrightNotice>
-          <CompanyInfo>Designed by <Link href="https://www.meralus.com"> src={logoIcon} </Link> </CompanyInfo>
+          <CompanyInfo>Designed by <Link href="https://www.meralus.com"> <img src={logoIcon} /> </Link> </CompanyInfo>
         </CopyrightAndCompanyInfoRow>
       </Content>
     </Container>
