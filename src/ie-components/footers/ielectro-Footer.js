@@ -137,7 +137,7 @@ export default () => {
         <CopyrightAndCompanyInfoRow>
           <CopyrightNotice>&copy; IElectroFix Solutions LLC.</CopyrightNotice>
           <CompanyInfo>Designed by <Link href="https://www.meralus.com">  
-          <img src={logoME} /> 
+          <img src={logoME} alt="Tedley Meralus" /> 
            </Link> </CompanyInfo>
         </CopyrightAndCompanyInfoRow>
       </Content>
