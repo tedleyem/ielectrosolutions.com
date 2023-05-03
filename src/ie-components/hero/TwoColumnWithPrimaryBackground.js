@@ -31,7 +31,7 @@ const Image = tw.img`w-144 ml-auto`
 export default ({
   heading = "Cell Phone Repair & IT Consulting",
   description = "Come into the store to learn more about event hosting, repairs for Iphones, tablets, android devices, web development, and IT consulting",
-  primaryButtonText = "3920 S Congress Ave, Lake Worth, FL 33461",
+  primaryButtonText = "Mobile service South Florida. We come to you.",
   primaryButtonUrl = "#",
   imageSrc = serverSecureIllustrationImageSrc,
 }) => {

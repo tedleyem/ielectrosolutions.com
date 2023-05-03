@@ -26,7 +26,7 @@ export default () => {
       /> 
       <MainFeature 
         subheading="Networking and Repairs"
-        heading="Networking, Hardware repair and more"
+        heading="Virus removal and more"
         description = "We can help you with PC tune ups, data transfers, virus removal, and more. 
         We also provide repair services for your Apple devices including iPhones, iPads, iPods, iMacs, and Macbooks.
         "

@@ -53,9 +53,7 @@ export default () => {
               <LogoText>IElectroFix Solutions</LogoText>
             </LogoContainer>
             <CompanyAddress>
-              3920 S Congress Ave, 
-              Lake Worth, 
-              FL 33461
+            We are mobile now. Servicing South Florida!
             </CompanyAddress>
             <SocialLinksContainer>
               <SocialLink href="https://instagram.com/ielectrofix">
@@ -122,13 +120,10 @@ export default () => {
             <ColumnHeading>Contact</ColumnHeading>
             <LinkList>
               <LinkListItem>
-                +1 (561) (555)-5555
+                +1 (561) (420)-6471
               </LinkListItem>
               <LinkListItem>
-                <Link href="mailto:support@servana.com">supportifix@gmail.com</Link>
-              </LinkListItem>
-              <LinkListItem>
-                <Link href="mailto:support@servana.com">Fax: +1 (561) (555)-5555</Link>
+                <Link href="mailto:supportifix@gmail.com">supportifix@gmail.com</Link>
               </LinkListItem> 
             </LinkList>
           </Column>

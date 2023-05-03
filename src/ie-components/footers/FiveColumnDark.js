@@ -50,9 +50,8 @@ export default () => {
               <LogoText>IElectroFix Solutions</LogoText>
             </LogoContainer>
             <CompanyAddress>
-              3920 S Congress Ave, 
-              Lake Worth, 
-              FL 33461
+             We are mobile now. 
+             Servicing South Florida
             </CompanyAddress>
             <SocialLinksContainer>
               <SocialLink href="https://facebook.com">
