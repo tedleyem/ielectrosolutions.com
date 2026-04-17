@@ -20,7 +20,7 @@ export default () => {
         heading="IPhone and Android Repairs in store"
         description = "Fast and reliable service, water damage, speaker failure, lcd replacement, and more. Call us to hear about all of our services. "
         imageSrc={phonerepairIllustrationImageSrc} 
-        primaryButtonText = "Call us 561-420-6471"
+        primaryButtonText = "Call us 561-320-1284"
         buttonRounded={false}
         textOnLeft={false}
       /> 
